@@ -16,8 +16,10 @@ A Machine Learning-powered web application to detect skin cancer from dermatolog
 
 ## 📸 Demo
 
-![Skin Cancer Detection Demo](https://raw.githubusercontent.com/yourusername/skin-cancer-detection-system-ml/main/assets/demo.gif)
+![Skin Cancer Detection Demo](https://github.com/AMMAR1122-LG/skin-cancer-detection-system-ml/blob/main/Malignant.png)
 
+---
+![Skin Cancer Detection Demo](https://github.com/AMMAR1122-LG/skin-cancer-detection-system-ml/blob/main/Benign.png)
 
 
 ---
@@ -33,6 +35,11 @@ A Machine Learning-powered web application to detect skin cancer from dermatolog
 | Model Format   | .h5 (Keras model)        |
 
 ---
+### 🙋‍♂️ About Me
 
+Hi, I'm M.Ammar Zahid, a passionate software engineering student and machine learning enthusiast. I enjoy working on projects that solve real-world problems using AI and data.
+
+   -![Github](https://github.com/AMMAR1122-LG)
+   -![Linkedin](https://www.linkedin.com/in/muhammad-ammar-zahid-b91124268/)
 
 
